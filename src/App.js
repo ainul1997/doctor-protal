@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+
 import './App.css';
 import Navber from './Home/Navber/Navber';
 import { Route, Routes } from 'react-router-dom';
