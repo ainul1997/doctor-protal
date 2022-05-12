@@ -47,7 +47,7 @@ const Services = () => {
 
                     <div class=" mx-16 ">
                         <h1 class="text-5xl font-bold">Your New Smile Starts Here</h1>
-                        <p class="py-6">Provident cupiditate voluptatem et in. Quaerat fugiat ut assumenda excepturi exercitationem quasi. In deleniti eaque aut repudiandae et a id nisi.</p>
+                        <p class="py-6">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsumis that it has a more-or-less normal distribution of letters,as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page</p>
                         <button class="btn bg-gradient-to-r from-primary to-secondary text-white">Get Started</button>
                     </div>
                     <img src={treatment} class="max-w-sm rounded-lg shadow-2xl ml-20 " />
